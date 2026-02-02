@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (contactForm) {
         contactForm.addEventListener('submit', function(e) {
             e.preventDefault();
-            alert('Thank you for your message! We will get back to you soon.');
+            alert('Спасибо за ваше сообщение! Мы свяжемся с вами в ближайшее время.');
             this.reset();
         });
     }
