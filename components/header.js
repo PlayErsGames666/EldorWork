@@ -61,7 +61,7 @@ class CustomFooter extends HTMLElement {
             </div>
             
             <div>
-              <h4 class="text-lg font-semibold mb-4">Services</h4>
+              <h4 class="text-lg font-semibold mb-4">Услуги</h4>
               <ul class="space-y-2">
                 <li><a href="#services" class="footer-link text-gray-300 hover:text-white">Аренда оборудования</a></li>
                 <li><a href="#services" class="footer-link text-gray-300 hover:text-white">Видео Производство</a></li>
@@ -81,7 +81,7 @@ class CustomFooter extends HTMLElement {
             </div>
             
             <div>
-              <h4 class="text-lg font-semibold mb-4">Contact</h4>
+              <h4 class="text-lg font-semibold mb-4">Связь</h4>
               <ul class="space-y-2">
                 <li class="flex items-center gap-2 text-gray-300">
                   <i data-feather="map-pin" class="w-4 h-4"></i>
